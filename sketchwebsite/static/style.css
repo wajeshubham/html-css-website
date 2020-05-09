@@ -1,0 +1,91 @@
+.heading {
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+    font-size: 3em;
+    color:  #003300;
+    letter-spacing: 1px;
+    position: relative;
+    font-weight: 600;
+    max-width:800px;
+    margin:auto;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+.container{
+     text-align:center;
+}
+
+
+body{
+
+    background-image:url('bush.png')
+
+}
+p{
+    font-family: 'Montserrat Alternates', sans-serif;
+    text-align: left;
+    max-width:800px;
+    margin:auto;
+    padding-top:20px;
+    font-size:1.3em;
+    line-height:3em;
+    font-weight:900;
+    color: #006600;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #332;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 15px 16px;
+  text-decoration: none;
+  font-size: 17px;
+   font-family: 'Montserrat', sans-serif;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+
+  background-color: orange;
+  color: #003300;
+  font-weight:100;
+  text-size:90;
+}
+
+.topnav a.active:hover {
+  background-color: red;
+  color: white;
+}
+
+h3 a:hover{
+    color:#005ce6;
+    text-decoration:none;
+}
+
+h3 a{
+    color:#005c;
+    text-decoration:none;
+}
+
+.input-group{
+    margin-bottom:4rem;
+
+
+
+
+}
+.input-control{
+    font-family: 'Montserrat Alternates', sans-serif;
+    width:65%;
+    margin-left:155px;
+}
