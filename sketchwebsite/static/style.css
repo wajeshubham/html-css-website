@@ -55,7 +55,6 @@ p{
 }
 
 .topnav a.active {
-
   background-color: orange;
   color: #003300;
   font-weight:100;
@@ -79,11 +78,9 @@ h3 a{
 
 .input-group{
     margin-bottom:4rem;
-
-
-
-
 }
+
+
 .input-control{
     font-family: 'Montserrat Alternates', sans-serif;
     width:65%;
